@@ -1,0 +1,28 @@
+header {
+    background-color: azure;
+    box-shadow: 1px 1px 5px;
+    align-items: center;
+}
+nav {
+    padding: 10px;
+}
+body{
+    background-color: azure;
+    margin: 0;
+}
+a{
+    font-size: 3cm;
+    color: purple;
+    text-shadow: 1px 1px 5px black;
+    margin: 5;
+}
+.con{
+    color: purple;
+    text-shadow: 1px 1px 5px black;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    color: purple;
+    text-shadow: 1px 1px 5px black;
+}
