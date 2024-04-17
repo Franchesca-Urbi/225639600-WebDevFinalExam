@@ -11,7 +11,7 @@ body{
     margin: 0;
 }
 a{
-    font-size: 3cm;
+    font-size: 1.5em;
     color: purple;
     text-shadow: 1px 1px 5px black;
     margin: 5;
@@ -25,4 +25,8 @@ a{
 footer{
     color: purple;
     text-shadow: 1px 1px 5px black;
+}
+.videolink{
+    font-size: 1em;
+    text-decoration: underline;
 }
